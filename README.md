@@ -1,2 +1,2 @@
-# SwaggerViewer
-一个展示Swagger API 的服务,具有API查看,测试等功能
+# Sneaky
+一个Restful Api生成器。
