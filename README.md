@@ -1,2 +1,2 @@
 # Sneaky
-一个Restful Api生成器。
+一个Java实现的http抓包小工具。
